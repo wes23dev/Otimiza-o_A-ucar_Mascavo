@@ -26,14 +26,18 @@ Diferente de indústrias de manufatura comum, a agroindústria lida com a oferta
 Conforme Souza (2022), o estoque de antecipação funciona como um "amortecedor" (buffer) que absorve a superprodução dos meses de safra para suprir a carência dos períodos onde a colheita é impossibilitada. Em unidades de gestão familiar, a posse de infraestrutura própria de armazenagem (galpões próprios) é um ativo estratégico fundamental. Embora elimine o custo direto de aluguel, a manutenção desse estoque envolve outros custos e riscos:
 
 Custo de Oportunidade: Representa o capital investido em produto parado que poderia estar gerando liquidez para outros investimentos na propriedade.
+
 Integridade do Produto: O açúcar mascavo é altamente higroscópico, exigindo rigoroso controle de umidade no galpão para evitar o empedramento ou perda de qualidade microbiológica.
+
 Nível de Serviço e Fidelização: A principal função do estoque, neste cenário, é evitar a Ruptura de Estoque. Segundo Colin (2001), a incapacidade de entrega na entressafra força o cliente a buscar novos fornecedores, o que pode resultar na perda definitiva de mercado.
 
 ### 2.3 Pesquisa Operacional e Programação Linear
 Para resolver o conflito entre a produção limitada pela safra e a necessidade de estoque para o ano todo, a Pesquisa Operacional (PO) oferece métodos quantitativos de suporte à decisão. A Programação Linear (PL) destaca-se como uma técnica de otimização que busca encontrar a melhor alocação de recursos escassos através de relações lineares.Um modelo de PL para o planejamento da produção é composto por:
 
 Variáveis de Decisão: Representam as escolhas do gestor, como a quantidade de toneladas de cana a colher de cada variedade em cada mês $t$.
+
 Função Objetivo: Define a meta do sistema (ex: minimizar custos totais de operação ou maximizar o aproveitamento da sacarose disponível).
+
 Restrições: São os limites físicos e operacionais, como a capacidade de moagem da usina, a disponibilidade de cana no campo por variedade e o balanço de estoque mensal, garantindo que a quantidade vendida nunca supere a soma do que foi produzido e estocado.
 
 A eficácia dessa técnica na agroindústria é documentada por Taube-Netto (1996), que demonstra que modelos matemáticos reduzem a subjetividade da gestão empírica e permitem a realização de análises de sensibilidade — fundamentais para prever o impacto de variações climáticas severas sobre o planejamento financeiro da agroindústria.
