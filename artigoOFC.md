@@ -32,15 +32,18 @@ Segundo Caixeta-Filho (2001), a aplicação de modelos matemáticos no planejame
 
 
 Referências Bibliográficas
-COLIN, Emerson Carlos; CIPPARRONE, Flávio A. M.; SHIMIZU, Tamio. Otimização do Custo de Transporte na Distribuição-Armazenagem de Açúcar. Revista Produção, v. 11, n. 2, 2001.
+CAIXETA-FILHO, José Vicente. Pesquisa operacional aplicada à agroindústria. São Paulo: Atlas, 2001.
 
-PIEDADE, Rinaldo Vianna. Um modelo de planejamento do sequenciamento de corte da cana-de-açúcar. 1989. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina, Florianópolis, 1989.
+COLIN, Emerson Carlos; CIPPARRONE, Flávio A. M.; SHIMIZU, Tamio. Otimização do custo de transporte na distribuição-armazenagem de açúcar. Produção, v. 11, n. 2, p. 55-66, 2001.
 
-SOUZA, Mariana Clemente de. Planejamento, Programação e Controle da Produção em uma agroindústria de cana-de-açúcar. 2022. Trabalho de Conclusão de Curso (Bacharelado em Engenharia de Produção) - Universidade Federal de Uberlândia, Ituiutaba, 2022.
+CONSECANA. Conselho dos Produtores de Cana-de-Açúcar, Açúcar e Álcool do Estado de São Paulo. Manual de instruções. 5. ed. São Paulo, 2006. 112 p.
+
+PIEDADE, Rinaldo Vianna. Um modelo de planejamento do sequenciamento de corte da cana-de-açúcar. 1989. Dissertação (Mestrado em Engenharia de Produção) — Universidade Federal de Santa Catarina, Florianópolis, 1989.
+
+SOUZA, Mariana Clemente de. Planejamento, programação e controle da produção em uma agroindústria de cana-de-açúcar. 2022. Trabalho de Conclusão de Curso (Bacharelado em Engenharia de Produção) — Universidade Federal de Uberlândia, Ituiutaba, 2022.
 
 TAUBE-NETTO, Miguel. Integrated planning for poultry production at Sadia. Interfaces, v. 26, n. 1, p. 38-53, 1996.
 
-TOMIYA, Eduardo H. Modelo econômico de empresa sucroalcooleira. 1994. Dissertação (Mestrado) - Escola Politécnica da USP, São Paulo, 1994.
-
+TOMIYA, Eduardo H. Modelo econômico de empresa sucroalcooleira. 1994. Dissertação (Mestrado em Engenharia) — Escola Politécnica da USP, São Paulo, 1994.
 
 
